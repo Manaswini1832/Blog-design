@@ -1,0 +1,47 @@
+body{font-family: 'Girassol', cursive;
+text-align: center;}
+.container-fluid{text-align: center;
+  padding-left: 0;
+  padding-right: 0;}
+/* Nav bar */
+.navbar-brand{font-family: 'Arizonia', cursive;
+  font-size:50px;}
+.nav-link{color:#fff;}
+.nav-item{padding:0 10px 0 10px;}
+.navbar{font-family: 'Girassol', cursive;
+  background-color: #14085a;}
+/* Title section */
+.title-div{background-color: #14085a;
+  color:#aaa9ad;
+  padding-top: 10%;
+  padding-bottom:10%;}
+.title-heading{font-weight: 900;
+  font-size: 5rem;}
+.hor-rule-title{border-top: dotted 3px grey;
+  width:10%;}
+.hor-rule-title-end{border-top :	#A9A9A9 solid 5px;}
+/* About section */
+.about-div{width: 60%;
+  padding-top:5%;
+  padding-bottom:5%;
+  margin: auto;}
+.about-para{font-family: 'Montserrat',sans-serif;
+  color:grey;}
+.hor-rule-about{border-top :	#00909e solid 5px;}
+/* Projects section */
+.projects-div{background-color: #aacfcf;
+  padding:5% 3% 5% 3%;}
+.projects-physics-head{text-align: left;}
+.projects-astronomy-head{text-align: left;}
+.projects-list-items{ text-align: left;}
+/* footer section */
+#footer{padding-top: 3%;
+  padding-bottom: 5%;}
+
+.icon-footer{padding:5px;}
+.para-footer{padding-top:2%;}
+/* Images styling */
+.horizon-img{border-radius:50%;
+  width:60%;}
+.physics-img{border-radius:50%;}
+.astro-img{border-radius:50%;width:30%;}

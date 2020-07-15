@@ -1,0 +1,37 @@
+body{
+  font-family: 'Girassol', cursive;
+
+}
+
+.blogDiv{
+  background-color: #f0f0f0;
+  font-family: 'Girassol', cursive;
+  padding: 15px;
+
+}
+
+.blogSummaryHead{
+  font-weight: bolder;
+  text-align: center;
+   
+}
+
+
+.file-icon{
+  padding-right:5px;
+}
+
+
+/* footer section */
+#footer{
+  padding-top: 3%;
+  padding-bottom: 5%;
+  text-align: center;
+}
+
+.icon-footer{
+  padding:5px 5px 5px 5px;
+}
+.para-footer{
+  padding-top:2%;
+}
